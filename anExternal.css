@@ -1,0 +1,13 @@
+#The_Lakers{
+    border:solid 5px purple;
+    float:left;
+    text-align:center;
+}
+#rounded_corners{
+    border:solid 5px purple;
+    border-radius:20px;
+    padding:20px;
+    text-align:center;
+}
+
+
