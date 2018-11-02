@@ -62,7 +62,10 @@ fieldset    {
 
 legend  {
     text-align: center;
+    font-size: 24;
+    font color: #2ecc71;
 }
+
 
 label   {
     margin-right: 10px;
