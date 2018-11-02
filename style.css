@@ -62,7 +62,8 @@ fieldset    {
 
 legend  {
     text-align: center;
-    font-size: 24pts;
+    font-size: 24pt;
+    font-family: 'Courier New', Courier, monospace
 }
 
 
